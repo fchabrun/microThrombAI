@@ -4,7 +4,7 @@
 Jacques BUREAU<sup>1,2</sup>, Floris CHABRUN<sup>2,3</sup>, Julien CHAIGNEAU<sup>2,4</sup>, Anne CROUE<sup>2,5</sup>,
 Sarah BELLAL<sup>2,5</sup>, Jean-Baptiste GIROT<sup>2,6</sup>, Anne PASCO-PAPON<sup>2,6</sup>, Aldéric LECLUSE<sup>1,2</sup>,
 Sophie GODARD<sup>1,2</sup>, Philippe CODRON<sup>+1,2</sup>, Vincent L’ALLINEC<sup>+2,5,7</sup><br>
-<sup>+</sup>These authors contributed equally to the manuscript
+<sup>+</sup><i>These authors contributed equally to the manuscript</i>
 
 ### Author affiliations:
 <sup>1</sup> Department of Neurology, Angers University Hospital, Angers, France<br>
